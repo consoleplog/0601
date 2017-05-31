@@ -127,10 +127,10 @@
 	background-repeat: no-repeat;
 }
 
-.content5_text{
+/*.content5_text{
 	height:3.32rem;
 	
-}
+}*/
 .text_1,.text_2,.text_3{
 	text-align: center;
 	
@@ -150,6 +150,7 @@
   color:#000;
   font-size: 0.37rem;
 	padding-top: 0.24rem;
+  padding-bottom: 0.6rem;
 }
 .arrow{
 	height:0.48rem;
